@@ -9,3 +9,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Arya Dewa Wijaya, https://github.com/Aryadw
+* Arya Dewa Wijaya, [Linkedin](https://www.linkedin.com/in/arya-dewa-wijaya-867759149/).
